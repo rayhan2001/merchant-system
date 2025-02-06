@@ -1,0 +1,6 @@
+Here is the project setup instruction:
+* DB name: merchant-system.
+* Composer install.
+* Run the migration commend.
+
+*Thank you*
